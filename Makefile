@@ -1,5 +1,5 @@
-TARGET = asm
-SRCS = asm.s
+TARGET = proj01
+SRCS = proj01.s
 
 LINKER_SCRIPT = stm32.ld
 
